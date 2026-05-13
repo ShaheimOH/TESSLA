@@ -4,6 +4,8 @@ Two-Stage Ensemble Scar Segmentation for the Left Atrium proposed for the [LASca
 
 Published Paper: DOI: [10.1007/978-3-031-31778-1_10](https://link.springer.com/chapter/10.1007/978-3-031-31778-1_10)
 
+** Made significant contributions to deep learning model design and code (first authour in publication)**
+
 ## Tasks
 
 * Task001_Blood -> Segmentation of left atrium blood pool from LGE-MRI
